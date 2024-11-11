@@ -1,0 +1,134 @@
+Educating Columns:
+
+Country Name
+who_region
+world_bank_income_level
+Year
+
+Teachers Data:
+
+Trained teachers in lower secondary education (% of total teachers)
+Trained teachers in lower secondary education, female (% of female teachers)
+Trained teachers in lower secondary education, male (% of male teachers)
+Trained teachers in preprimary education (% of total teachers)
+Trained teachers in preprimary education, female (% of female teachers)
+Trained teachers in preprimary education, male (% of male teachers)
+Trained teachers in primary education (% of total teachers)
+Trained teachers in primary education, female (% of female teachers)
+Trained teachers in primary education, male (% of male teachers)
+Trained teachers in secondary education (% of total teachers)
+Trained teachers in secondary education, female (% of female teachers)
+Trained teachers in secondary education, male (% of male teachers)
+Trained teachers in upper secondary education (% of total teachers)
+Trained teachers in upper secondary education, female (% of female teachers)
+Trained teachers in upper secondary education, male (% of male teachers)
+
+
+
+Contribution of youth
+
+Share of youth not in education, employment or training, female (% of female youth population)
+Share of youth not in education, employment or training, female (% of female youth population) (modeled ILO estimate)
+Share of youth not in education, employment or training, male (% of male youth population)
+Share of youth not in education, employment or training, male (% of male youth population)  (modeled ILO estimate)
+Share of youth not in education, employment or training, total (% of youth population)
+Share of youth not in education, employment or training, total (% of youth population)  (modeled ILO estimate)
+
+
+School Enrollment:
+
+School enrollment, preprimary (% gross)
+School enrollment, preprimary, female (% gross)
+School enrollment, preprimary, male (% gross)
+School enrollment, primary (% gross)
+School enrollment, primary (% net)
+School enrollment, primary (gross), gender parity index (GPI)
+School enrollment, primary and secondary (gross), gender parity index (GPI)
+School enrollment, primary, female (% gross)
+School enrollment, primary, female (% net)
+School enrollment, primary, male (% gross)
+School enrollment, primary, male (% net)
+School enrollment, primary, private (% of total primary)
+School enrollment, secondary (% gross)
+School enrollment, secondary (% net)
+School enrollment, secondary (gross), gender parity index (GPI)
+School enrollment, secondary, female (% gross)
+School enrollment, secondary, female (% net)
+School enrollment, secondary, male (% gross)
+School enrollment, secondary, male (% net)
+School enrollment, secondary, private (% of total secondary)
+School enrollment, tertiary (% gross)
+School enrollment, tertiary (gross), gender parity index (GPI)
+School enrollment, tertiary, female (% gross)
+School enrollment, tertiary, male (% gross)
+
+
+School Completion Rates:
+
+Lower secondary completion rate, female (% of relevant age group)
+Lower secondary completion rate, male (% of relevant age group)
+Lower secondary completion rate, total (% of relevant age group)
+Lower secondary school starting age (years)
+Primary completion rate, female (% of relevant age group)
+Primary completion rate, male (% of relevant age group)
+Primary completion rate, total (% of relevant age group)
+Progression to secondary school (%)
+Progression to secondary school, female (%)
+Progression to secondary school, male (%)
+
+
+
+
+Literacy rate:
+
+Literacy rate, adult female (% of females ages 15 and above)
+Literacy rate, adult male (% of males ages 15 and above)
+Literacy rate, adult total (% of people ages 15 and above)
+Literacy rate, youth (ages 15-24), gender parity index (GPI)
+Literacy rate, youth female (% of females ages 15-24)
+Literacy rate, youth male (% of males ages 15-24)
+Literacy rate, youth total (% of people ages 15-24)
+Learning poverty: Share of Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
+Learning poverty: Share of Female Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
+Learning poverty: Share of Male Children at the End-of-Primary age below minimum reading proficiency adjusted by Out-of-School Children (%)
+
+
+
+Education Attainment Level:
+
+Educational attainment, Doctoral or equivalent, population 25+, female (%) (cumulative)
+Educational attainment, Doctoral or equivalent, population 25+, male (%) (cumulative)
+Educational attainment, Doctoral or equivalent, population 25+, total (%) (cumulative)
+Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)
+Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)
+Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)
+Educational attainment, at least Master's or equivalent, population 25+, female (%) (cumulative)
+Educational attainment, at least Master's or equivalent, population 25+, male (%) (cumulative)
+Educational attainment, at least Master's or equivalent, population 25+, total (%) (cumulative)
+Educational attainment, at least completed lower secondary, population 25+, female (%) (cumulative)
+Educational attainment, at least completed lower secondary, population 25+, male (%) (cumulative)
+Educational attainment, at least completed lower secondary, population 25+, total (%) (cumulative)
+Educational attainment, at least completed post-secondary, population 25+, female (%) (cumulative)
+Educational attainment, at least completed post-secondary, population 25+, male (%) (cumulative)
+Educational attainment, at least completed post-secondary, population 25+, total (%) (cumulative)
+Educational attainment, at least completed primary, population 25+ years, female (%) (cumulative)
+Educational attainment, at least completed primary, population 25+ years, male (%) (cumulative)
+Educational attainment, at least completed primary, population 25+ years, total (%) (cumulative)
+Educational attainment, at least completed short-cycle tertiary, population 25+, female (%) (cumulative)
+Educational attainment, at least completed short-cycle tertiary, population 25+, male (%) (cumulative)
+Educational attainment, at least completed short-cycle tertiary, population 25+, total (%) (cumulative)
+Educational attainment, at least completed upper secondary, population 25+, female (%) (cumulative)
+Educational attainment, at least completed upper secondary, population 25+, male (%) (cumulative)
+Educational attainment, at least completed upper secondary, population 25+, total (%) (cumulative)
+
+
+
+Children Out Of School:
+
+Children out of school (% of primary school age)
+Children out of school, female (% of female primary school age)
+Children out of school, male (% of male primary school age)
+Children out of school, primary
+Children out of school, primary, female
+Children out of school, primary, male
+Children with fever receiving antimalarial drugs (% of children under age 5 with fever)
